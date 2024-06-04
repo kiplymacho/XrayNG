@@ -1,3 +1,16 @@
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=Channel+YouTube+@km7ujuh" />
+   <p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=K+I+P+L+Y+M+A+C+H+O" />
+</p>
+
+<h2 align="center">
+Powered By:
+
+kiplymacho
+
+<img src="https://img.shields.io/badge/Version-1.0.0-blue.svg"></h2>
+
 # v2rayNG
 
 A V2Ray client for Android, support [Xray core](https://github.com/XTLS/Xray-core) and [v2fly core](https://github.com/v2fly/v2ray-core)
