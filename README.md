@@ -47,3 +47,26 @@ For a quick start, read guide for [Go Mobile](https://github.com/golang/go/wiki/
 
 v2rayNG can run on Android Emulators. For WSA, VPN permission need to be granted via
 `appops set [package name] ACTIVATE_VPN allow`
+
+<div height='45' align="center">
+<h2>Contact me: <br>
+<a href="https://github.com/kiplymacho"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" height='50'> </a>
+<a href="https://facebook.com/kiplymachobanjar"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" height='50'> </a>
+
+<a href="https://paypal.me/kiplymacho"> <img src="https://cdn.trakteer.id/images/embed/trbtn-red-6.png" height='50'> </a>
+</h2>
+</div>
+<h2 align="center">
+<img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=kiplymacho&layout=compact&theme=dark">
+<img height=150 src="https://github-readme-stats.vercel.app/api?username=kiplymacho&count_private=true&show_icons=true&theme=dark">
+<h2 align="center">
+
+- Kritik & Saran 
+- [Facebook](https://www.facebook.com/httpcustomkiplymacho/)
+- [WhatsApp](https://wa.me/6285751032225)
+
+# _Subscribe_
+- Klik Disini 👉[YouTube](https://www.youtube.com/@km7ujuh)
+
+# _Follow_
+- Klik Disini👉[instagram](https://instagram.com/kiplymacho)
