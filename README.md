@@ -8,7 +8,7 @@
 
 <p align='center'><a href="https://api.daily.dev/get?r=fisabiliyusri"><img src="https://raw.githubusercontent.com/fisabiliyusri/.github/main/kotori2.png?r=82s" width="150" alt="Hayuk"/></a></p>
 
-
+[![Powered By:kiplymacho](https://img.shields.io/badge/PoweredBy:kiplymacho-7%2B-blue.svg?style=flat)](http://linktr.ee/kiplymacho)j
 
 # v2rayNG
 
@@ -28,9 +28,6 @@ A V2Ray client for Android, support [Xray core](https://github.com/XTLS/Xray-cor
 <a href="https://play.google.com/store/apps/details?id=com.v2ray.ang">
 <img alt="Get it on Google Play" src="https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png" width="165" height="64" />
 </a>
-
-### Telegram Channel
-[github_kiplymacho](https://t.me/github_kiplymacho)
 
 ### Usage
 
@@ -64,12 +61,12 @@ v2rayNG can run on Android Emulators. For WSA, VPN permission need to be granted
 <img height=150 src="https://github-readme-stats.vercel.app/api?username=kiplymacho&count_private=true&show_icons=true&theme=dark">
 <h2 align="center">
 
-- Kritik & Saran 
-- [Facebook](https://www.facebook.com/httpcustomkiplymacho/)
-- [WhatsApp](https://wa.me/6285751032225)
+- Kritik & Saran
+- [![Facebook](https://img.shields.io/badge/Facebook-7K%2B-yellow.svg?style=flat)](https://www.facebook.com/httpcustomkiplymacho/)
+-  [![WhatsApp](https://img.shields.io/badge/WhatsApp-400%2B-yellow.svg?style=flat)](https://wa.me/6285751032225)
 
 # _Subscribe_
-- Klik Disini 👉[YouTube](https://www.youtube.com/@km7ujuh)
+- Klik Disini 👉[![YouTube](https://img.shields.io/badge/YouTube-200%2B-yellow.svg?style=flat)](https://www.youtube.com/@km7ujuh)
 
 # _Follow_
-- Klik Disini👉[instagram](https://instagram.com/kiplymacho)
+- Klik Disini👉[![instagram](https://img.shields.io/badge/Instagram-2K%2B-yellow.svg?style=flat)](https://instagram.com/kiplymacho)
