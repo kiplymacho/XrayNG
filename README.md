@@ -5,11 +5,10 @@
 </p>
 
 <h2 align="center">
-Powered By:
 
-kiplymacho
+<p align='center'><a href="https://api.daily.dev/get?r=fisabiliyusri"><img src="https://raw.githubusercontent.com/fisabiliyusri/.github/main/kotori2.png?r=82s" width="150" alt="Hayuk"/></a></p>
 
-<img src="https://img.shields.io/badge/Version-1.0.0-blue.svg"></h2>
+
 
 # v2rayNG
 
